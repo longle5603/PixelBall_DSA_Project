@@ -67,10 +67,7 @@ public class LoginScreen extends JFrame {
 
         loginDialog.setLocationRelativeTo(null);
 
-        if (username.equals("phuc") && password.equals("phuc") ||
-                username.equals("duc") && password.equals("duc") ||
-                username.equals("nam") && password.equals("nam") ||
-                username.equals("long") && password.equals("long")) {
+        if (username.equals("long") && password.equals("long")) {
 
 //            JOptionPane.showMessageDialog(loginDialog, "Login successful!");
 
