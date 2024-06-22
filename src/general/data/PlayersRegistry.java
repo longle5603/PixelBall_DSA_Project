@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents a registry for player scores in the game, storing the highest score achieved.
+*/
 package general.data;
 
 import java.io.Serializable;

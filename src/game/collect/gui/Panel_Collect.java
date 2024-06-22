@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents the game panel for the game, handling game logic, UI updates, and user input.
+*/
 package game.collect.gui;
 
 import java.awt.event.KeyEvent;

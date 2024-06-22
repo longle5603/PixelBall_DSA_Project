@@ -1,3 +1,9 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: It represents the main graphical user interface of the application.
+         It manages the frame window, handles panels, sets icons, and manages the application's visual and audio elements.
+*/
+
 package gui;
 
 import java.awt.Font;
@@ -30,7 +36,7 @@ public class GUI extends JFrame {
 
     private void initialize() {
         setIconImage(img.getImage());
-        setTitle("COLLECT Game");
+        setTitle("Pixel Ball");
         setSize((int)factory.getScreenResolution().getWidth() + 16, (int) factory.getScreenResolution().getHeight() + 39);
         getContentPane().setLayout(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

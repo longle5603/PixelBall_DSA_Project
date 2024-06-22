@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents the difficulty selection panel in the game, providing buttons for selecting difficulty levels and accessing configuration settings.
+*/
 package game.collect.gui;
 
 import javax.swing.JPanel;

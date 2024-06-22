@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents a clock thread for the game. It controls the timing of game operations based on a specified step interval.
+*/
 package game.collect.thread;
 
 import game.collect.logic.Game_Collect;

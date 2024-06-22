@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Abstract base class for managing game logic, including points, levels, time, and state control such as pause and game over.
+*/
+
 package general.logic;
 
 import abstractFactory.AbstractFactory;

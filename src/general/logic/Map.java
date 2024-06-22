@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Abstract representation of a game map or grid structure, managing cells and interactions within the game.
+*/
+
 package general.logic;
 
 public abstract class Map {

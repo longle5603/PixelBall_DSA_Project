@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents a graphical configuration panel for selecting color themes (light and dark) in a GUI application.
+*/
+
 package gui;
 
 

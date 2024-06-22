@@ -1,3 +1,9 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: It represents the main menu panel of the application.
+         It includes buttons for configuration, playing a game, selecting difficulty levels, and exiting the application.
+*/
+
 package gui;
 import javax.swing.JPanel;
 

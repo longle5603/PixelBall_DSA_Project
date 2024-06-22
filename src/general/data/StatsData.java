@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Manages the loading and saving of player scores using serialization.
+*/
 package general.data;
 
 import java.io.FileInputStream;

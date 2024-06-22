@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Provides a rounded internal border with customizable thickness, corner radius, and color for Swing components.
+*/
+
 package general.utilities;
 
 import java.awt.Color;

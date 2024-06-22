@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Implements a concrete factory for creating dark-themed UI components and icons.
+*/
 package abstractFactory;
 
 import java.awt.Color;

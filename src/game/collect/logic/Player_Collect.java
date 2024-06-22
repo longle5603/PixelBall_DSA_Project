@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents the player entity in the game, handling movement and interaction with the game map.
+*/
 package game.collect.logic;
 
 import abstractFactory.AbstractFactory;

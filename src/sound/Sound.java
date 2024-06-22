@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Manages sound effects for various actions in the application.
+*/
+
 package sound;
 
 public class Sound {

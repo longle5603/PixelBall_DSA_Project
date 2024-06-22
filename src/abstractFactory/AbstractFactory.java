@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Defines an abstract factory for creating UI components based on screen resolution and theme.
+*/
 package abstractFactory;
 
 import java.awt.Color;

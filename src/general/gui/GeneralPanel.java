@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Defines a base class for managing game panels within a graphical interface.
+*/
 package general.gui;
 
 import java.awt.Font;

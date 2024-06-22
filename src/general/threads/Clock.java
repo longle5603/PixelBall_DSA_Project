@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Thread class to manage game timing, repaints, and second counting, ensuring smooth gameplay flow.
+*/
+
 package general.threads;
 
 import general.logic.Game;

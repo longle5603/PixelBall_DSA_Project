@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Implements the core logic for the game, including player actions, point management, and game difficulty levels.
+*/
 package game.collect.logic;
 
 import game.collect.gui.Panel_Collect;

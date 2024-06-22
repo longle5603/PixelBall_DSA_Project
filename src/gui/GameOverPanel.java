@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents a panel displayed when the game is over in a GUI application,
+         providing options to restart the game, return to the home screen, or exit the application.
+*/
 package gui;
 
 import java.awt.Color;

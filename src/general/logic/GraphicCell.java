@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents a graphical cell in a game interface, displaying an icon and background color.
+*/
+
 package general.logic;
 
 import java.awt.Color;

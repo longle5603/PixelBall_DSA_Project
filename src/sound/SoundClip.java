@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents a sound clip that can be played back. It loads an audio file and provides functionality to play the sound.
+*/
+
 package sound;
 
 import java.io.IOException;

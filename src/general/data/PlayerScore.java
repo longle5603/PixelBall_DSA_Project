@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents a player's score in the game, implementing Serializable and Comparable interfaces for storage and comparison purposes.
+*/
 package general.data;
 
 import java.io.Serializable;

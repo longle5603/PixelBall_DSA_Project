@@ -1,3 +1,9 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Provides a login screen for the application. Upon successful login, initializes the main application window (`GUI`)
+         using `DarkFactory` and `Sound` classes.
+*/
+
 package main;
 
 import abstractFactory.DarkFactory;

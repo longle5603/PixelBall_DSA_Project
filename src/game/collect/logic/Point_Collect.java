@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents the point object in the game, handling its movement and charging mechanism.
+*/
+
 package game.collect.logic;
 
 import abstractFactory.AbstractFactory;

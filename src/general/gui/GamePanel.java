@@ -1,3 +1,8 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Defines a base class for managing graphical components and game-specific UI functionality within a game's graphical interface.
+*/
+
 package general.gui;
 
 import javax.swing.JLabel;

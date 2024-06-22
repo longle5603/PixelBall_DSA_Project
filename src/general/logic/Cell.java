@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Represents a cell in a grid-based game board, managing its position, occupancy status, and graphical representation.
+*/
 package general.logic;
 
 public class Cell {

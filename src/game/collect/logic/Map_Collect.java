@@ -1,3 +1,7 @@
+/*
+Name: Lê Nguyễn Thành Long - ITDSIU21097
+Purpose: Extends the general Map class for the game, associating it with the Game_Collect instance.
+*/
 package game.collect.logic;
 
 import general.logic.Map;
